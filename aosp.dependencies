@@ -19,9 +19,9 @@
 "branch":      "eleven"
 },
 {
-"repository"  : "packages_apps_MotCamera2",
+"repository"  : "juampapo546/packages_apps_MotCamera2",
 "target_path" : "packages/apps/MotCamera2",
-"branch"      : "eleven-denali",
-"remote"      : "pixel-devices-blobs"
+"branch"      : "eleven-primary",
+"remote"      : "gitlab"
  }
 ]
